@@ -1,0 +1,5 @@
+
+conda activate SEAM-3.6
+cd /home/junjzhan/zhao_jg/code/FS-HSI/PU/superpixel_thres_repeat/
+bash tmp_copy.sh | tee -a tmp_copy.txt
+
